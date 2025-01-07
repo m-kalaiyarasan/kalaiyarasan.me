@@ -83,7 +83,7 @@
             </div><!-- End Skills Item -->
 
             <div class="progress">
-              <span class="skill"><span>SQL</span> <i class="val">70%</i></span>
+              <span class="skill"><span>MYSQL</span> <i class="val">70%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100" style="width: 70%;"></div>
             </div>
