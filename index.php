@@ -111,8 +111,10 @@ include 'load.php';
 								</a>
 							</div>
 							<div class="short_info">
-								<h4><a href="https://www.linkedin.com/posts/kalaiyarasan-m-030048258_excited-to-share-my-latest-project-denver-activity-7208090941969100801-_Son?utm_source=share&utm_medium=member_desktop">AI Voice assitant <h6 class="mt-1">Read more</h6> </a></h4> 
+							<center>	
+							<h4><a href="https://www.linkedin.com/posts/kalaiyarasan-m-030048258_excited-to-share-my-latest-project-denver-activity-7208090941969100801-_Son?utm_source=share&utm_medium=member_desktop">AI Voice assitant <h6 class="mt-1 text-primary">Read more</h6> </a></h4> 
 								<p>Aim to control every part of your tech world</p>
+</center>
 							</div>
 						</div>
 					</div>
@@ -129,8 +131,10 @@ include 'load.php';
 								</a>	
 							</div>
 							<div class="short_info">
-								<h4><a href="https://www.linkedin.com/posts/kalaiyarasan-m-030048258_security-database-php-activity-7232019645757603841-BAX5?utm_source=share&utm_medium=member_desktop">Secure Login System<h6 class="mt-1">Read more</h6> </a></h4>
+							<center>	
+							<h4><a href="https://www.linkedin.com/posts/kalaiyarasan-m-030048258_security-database-php-activity-7232019645757603841-BAX5?utm_source=share&utm_medium=member_desktop">Secure Login System<h6 class="mt-1 text-primary">Read more</h6> </a></h4>
 								<p>With complex Hashing technique</p>
+</center>
 							</div>
 						</div>
 					</div>
@@ -147,8 +151,10 @@ include 'load.php';
 								</a>
 							</div>
 							<div class="short_info">
-								<h4><a href="https://youtu.be/nNexc5otHHc?si=K0tnYqwQibBckSC9">Smart Glass<h6 class="mt-1">Read more</h6> </a></h4>
+							<center>	
+							<h4><a href="https://youtu.be/nNexc5otHHc?si=K0tnYqwQibBckSC9">Smart Glass<h6 class="mt-1 text-primary">Read more</h6> </a></h4>
 								<p>With Bone Conduction Technology </p>
+</center>
 							</div>
 						</div>
 					</div>
@@ -156,7 +162,7 @@ include 'load.php';
 					<!-- <div class="col-lg-4 col-md-6 all upcoming"> -->
 						<div class="portfolio_box">
 							<div class="single_portfolio">
-							<a href="https://gosite.in"><img class="img-fluid w-100" src="img/Projects/gosite.png" alt=""> </a>
+							<a href="https://gosite.in"><img class="img-fluid w-100 shadow p-3 mb-5 bg-white rounded" src="img/Projects/gosite2.png" alt=""> </a>
 								<div class="overlay"></div>
 								<a href="img/portfolio/p9.jpg" class="img-gal">
 									<div class="icon">
@@ -164,9 +170,11 @@ include 'load.php';
 									</div>
 								</a>
 							</div>
-							<div class="short_info ">
-								<h4><a href="https://gosite.in">Web Hosting Service<h6 class="mt-1">Read more</h6> </a></h4>
-								<p> Using PHP </p>
+							<div class="short_info">
+								<center>
+								<h4><a href="https://gosite.in">Web Hosting Service<h6 class="mt-1 text-primary">Read more</h6> </a></h4>
+								<p> Using PHP, MySql, Apache, Docker, Bootstrap, Bash Script, Python </p>
+								</center>
 							</div>
 						</div>
 					</div>
